@@ -1,0 +1,27 @@
+Feature,Importance
+oh_encode__Rating color_White,0.31165665005065735
+oh_encode__Rating text_Not rated,0.2560148666336273
+standard__Votes,0.20762708985978856
+oh_encode__Rating color_Orange,0.045809009791480206
+oh_encode__Rating text_Very Good,0.033927156235172444
+oh_encode__Rating color_Yellow,0.026421308088904433
+oh_encode__Rating color_Green,0.023714445925989983
+standard__Price range,0.023161636303004694
+oh_encode__Rating text_Excellent,0.01537234641113666
+oh_encode__Rating text_Good,0.010438115830353985
+standard__Average Cost for two,0.007361444940968289
+remainder__Country Code,0.007116371545806797
+oh_encode__Rating text_Poor,0.006292763791525516
+oh_encode__Has Online delivery_Yes,0.005861597778426495
+standard__Longitude,0.005477559064308042
+oh_encode__Rating color_Red,0.0032959410324011817
+remainder__City,0.0023919417890728126
+standard__Latitude,0.0021947029197001582
+remainder__Address,0.0016512763407422
+remainder__Locality Verbose,0.0011025035586431225
+remainder__Cuisines,0.0009503539450618243
+remainder__Locality,0.0008575269758132179
+remainder__Restaurant Name,0.0007504894603928431
+remainder__Currency,0.00046407159274495716
+oh_encode__Has Table booking_Yes,6.984798946361685e-05
+oh_encode__Is delivering now_Yes,1.8982144813430608e-05
